@@ -1,0 +1,7 @@
+# Query: null
+# Hashed IRI: https://dbpedia.org/sparql@@POST:query=SELECT+%28+COUNT%28+*+%29+AS+%3Fcount+%29+WHERE+%7B+SELECT+%3Fp+%3Fs+WHERE+%7B+%3Fs+%3Fp+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FAalter%3E+.+%7DORDER+BY+ASC+%28+%3Fp+%29+LIMIT+5+%7D
+# Content-type: application/sparql-results+json
+
+{ "head": { "link": [], "vars": ["count"] },
+  "results": { "distinct": false, "ordered": true, "bindings": [
+    { "count": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#integer", "value": "5" }} ] } }

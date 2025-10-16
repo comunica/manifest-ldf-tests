@@ -216,8 +216,8 @@ checked="checked" />
 <div class="text-center">
 Copyright &#169; 2025 <a href="https://www.openlinksw.com/">OpenLink Software</a>
 <br/>
-<a href="https://virtuoso.openlinksw.com/">Virtuoso</a> version 08.03.3332 (2e06712827) on Linux (x86_64-generic-linux-glibc212)
-Single Server Edition (61 GB total memory, 41 GB memory in use)
+<a href="https://virtuoso.openlinksw.com/">Virtuoso</a> version 08.03.3334 (48db686cd6) on Linux (x86_64-generic-linux-glibc2.12)
+Single Server Edition (61 GB total memory, 47 GB memory in use)
 
 </div>
 </footer>
